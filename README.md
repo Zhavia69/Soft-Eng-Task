@@ -53,11 +53,9 @@ json
     },
     "enrolled_programs": [
       {
-        
         "name": "Diabetes",
         "description": "A metabolic disease..."
-        
-      }
+              }
     ]
   }
 }
